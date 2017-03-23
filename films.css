@@ -117,10 +117,6 @@ filter:alpha(opacity=30);
   float: left;
 }
 
-#word{
-  float: right;
-}
-
 #time {
   color:blue;
   font-size:200%;
